@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sayujkoul
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - sayujkoul@gmail.com
 
 <!---
